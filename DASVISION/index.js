@@ -1,0 +1,1 @@
+console.log("Hola Mundo desde EC2 con CodeDeploy!");
